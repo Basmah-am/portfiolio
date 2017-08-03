@@ -1,0 +1,51 @@
+body {
+	font-family: 'Boogaloo';
+	color: #5f866c;
+	font-size: 48px;
+  	background-color: #f1f1f1;
+}
+.header-box {
+	font-family: 'Boogaloo';
+    margin-top: 22px;
+}
+.img-header {
+	width:	25%;
+	
+}
+.project-list {
+
+}
+.header-title {
+	font-family: 'Boogaloo';
+	color: #5e1350;
+	text-transform: uppercase;
+}
+.header-small-text {
+	color: #5f866c;
+
+}
+.title {
+	color: #5f866c;
+	font-family: 'Boogaloo';
+	font-size: 25px;
+
+}
+.project-img {
+	width:350px;
+	height:250px;
+	color: #5f866c;
+}
+.footer {
+	margin: 30px;
+}
+.arrow {
+	border-color: #a67e1a;
+}
+.social-icon {
+	color: #5f866c;
+	text-decoration: none;
+}
+.social-icon:hover {
+	color: #e5cecf;
+	text-decoration: none;
+}
